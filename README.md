@@ -1,3 +1,5 @@
+git clone https://github.com/dmitry798/Descriptive-data-analysis.git
+
 # ДОМАШНЕЕ ЗАДАНИЕ №2. Дескриптивный анализ данных
 
 Гейне М.А. (geine@bmstu.ru)
